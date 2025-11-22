@@ -1,4 +1,4 @@
-----------SHOPPING BILL PROJECT----------
+SHOPPING BILL PROJECT
 Overview of the Project
 This shopping bill project is a simple computer program that helps shops, create bills for cutomers quickly and accurately.
 It keeps a list of products with prices and the system calculates total cost and prints the final bill for the customer.
